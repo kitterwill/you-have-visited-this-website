@@ -1,0 +1,23 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: monospace;
+}
+
+.container {
+    position: absolute;
+    left: 50%;
+    top: 45%;
+    transform: translate(-50%,-50%);
+    text-align: center;
+}
+
+.image {
+    margin-top: 20px;
+    margin-bottom: 50px;
+}
+
+.cat {
+    width: 200px;
+}
